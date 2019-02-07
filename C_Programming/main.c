@@ -37,6 +37,18 @@ int main()
 
     }
 
+    int ii = 10;
+    for(ii = 0; ii < 10; ii += 2) {
+
+    }
+
+    while(){
+
+    }
+    do {
+
+    }while();
+
     char c = 'a';
 
     printf("Valor de F2: %i, %f\n", i, f2);
